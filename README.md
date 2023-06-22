@@ -1,6 +1,6 @@
 # currency-converter
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple currency converter made with Vue 3 + Tailwind Css
 
 ## Recommended IDE Setup
 
